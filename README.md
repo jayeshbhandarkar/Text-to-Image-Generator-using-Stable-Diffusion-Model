@@ -30,7 +30,7 @@ The notebooks use the following libraries and packages:
 To run these notebooks, you need to install the required libraries. You can install them using pip command:
 
 ```
-   pip install googletrans==4.0.0-rc1 tqdm torch pandas numpy diffusers transformers matplotlib opencv-python
+   pip install googletrans==4.0.0-rc1 tqdm torch pandas numpy diffusers transformers matplotlib cv2
 ```
 
 ## Usage
@@ -56,6 +56,6 @@ To run these notebooks, you need to install the required libraries. You can inst
 
 ---
 
-## Note : Use your own hugging face api key.
+### Note : Use your own hugging face api key.
 
 ⬤ Please do ⭐ the Repository, if it helped you in anyway.
