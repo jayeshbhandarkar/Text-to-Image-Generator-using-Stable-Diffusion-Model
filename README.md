@@ -30,7 +30,7 @@ The notebooks use the following libraries and packages:
 To run these notebooks, you need to install the required libraries. You can install them using pip command:
 
 ```
-   pip install googletrans==4.0.0-rc1 tqdm torch pandas numpy diffusers transformers matplotlib cv2
+   pip install googletrans tqdm torch pandas numpy diffusers transformers matplotlib cv2
 ```
 
 ## Usage
